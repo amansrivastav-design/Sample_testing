@@ -1,0 +1,10 @@
+scikit-learn
+matplotlib
+pandas
+numpy
+seaborn
+xgboost
+scipy
+scikit-optimize
+fastapi
+uvicorn
